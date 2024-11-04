@@ -8,3 +8,4 @@ To open the solution:
 Username: Admin
 Password: admin
 
+For more information, see https://www.beezwax.net/bzmodules/bzgallery-fm
