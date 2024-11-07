@@ -6,6 +6,7 @@ bzGallery is designed to work with FileMaker 2023 (v20.x) or FileMaker 2024 (v21
 To open the solution:
 
 Username: Admin
+
 Password: admin
 
 For more information, see https://www.beezwax.net/bzmodules/bzgallery-fm
